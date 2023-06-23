@@ -4,16 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests/"
+    "test": "mocha tests/" 
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "should": "^13.2.3"
-  },
-  "directories": {
-    "test": "tests"
-  },
-  "devDependencies": {}
+  }
 }
